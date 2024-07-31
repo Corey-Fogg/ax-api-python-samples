@@ -1,5 +1,5 @@
 
-# Axcient x360Recover Client Dashboard
+# Axcient x360Recover Python Client Dashboard
 
 This project provides a simple Python application to fetch and display a list of clients and their devices from the Axcient x360Recover API. It includes a CLI-based script (`list_clients.py`) and a more advanced Tkinter-based GUI dashboard (`client_dashboard.py`).
 
